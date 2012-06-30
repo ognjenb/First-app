@@ -3,12 +3,17 @@ package org.sample.app.ogiSecond;
 public class Cocoa {
 	
 	public Cocoa() {
-		boolean a = true;
+		
+	}
+	
+	public String cocoaChecker(boolean a) {
+		
 		if (a) {
-			System.out.println("ok");
+			return "ok";
 		} else {
-			System.out.println("notok");
+			return "notok";
 		}
+		
 	}
 
 }
