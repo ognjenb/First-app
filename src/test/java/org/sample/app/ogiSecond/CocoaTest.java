@@ -16,7 +16,7 @@ public class CocoaTest {
 	@Test
 	public final void testCocoa() {
 		assertEquals("ok",testObject.cocoaChecker(true));
-		fail("Not yet implemented");
+		
 	}
 
 }
