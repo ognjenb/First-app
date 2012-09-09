@@ -31,7 +31,7 @@ public class Agave {
 				//donothing
 			} else if (((b % a) == 37)) {
 				//donothing
-			
+			}
 		}
 		return 3;
 	}
