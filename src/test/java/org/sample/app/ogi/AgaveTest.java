@@ -16,5 +16,15609 @@ public class AgaveTest {
 	public final void testAgaveMethod() {
 		assertEquals(3,testObject.agaveMethod(33));
 	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}	
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
+	@Test
+	public final void testAgaveMethod() {
+		assertEquals(3,testObject.agaveMethod(33));
+	}
 
 }
